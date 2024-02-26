@@ -3,7 +3,7 @@
 
 
 <!---- stack part-->
-<table style="border-collapse: collapse; border: none;" width="100%">
+<table width="100%" style="border-collapse: collapse; border: none;" align="center" >
   <tr >
     <td style="border: none;" >
         <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-jiheui&layout=compact&theme=radical&langs_count=8" >
