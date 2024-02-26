@@ -1,9 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Jiheui%20Lee%20&desc=Full%20Stack%20Developer&descAlignY=75&descAlign=60&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/>
 
+<div style="display: inline-block; width: 30%;">
+    <img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=developer-jiheui&layout=compact&theme=radical&langs_count=8' width="100%">
+</div>
 
-<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=developer-jiheui&layout=compact&theme=radical&langs_count=8' width="40%">
-
-<img align ="right" src='https://github-readme-stats.vercel.app/api?username=developer-jiheui&show_icons=true&theme=radical' width="60%">
+<div style="display: inline-block; width: 40%;">
+    <img align ="right" src='https://github-readme-stats.vercel.app/api?username=developer-jiheui&show_icons=true&theme=radical' width="100%">
+</div>
 
 <br>
 <!----footer-->
