@@ -3,7 +3,7 @@
 
 <img alian="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=developer-jiheui&layout=compact&theme=radical&langs_count=8' width="40%">
 
-<img align ="right" src='https://github-readme-stats.vercel.app/api?username=developer-jiheui&show_icons=true&theme=radical' width="60%">
+<img alian ="right" src='https://github-readme-stats.vercel.app/api?username=developer-jiheui&show_icons=true&theme=radical' width="60%">
 
 <br>
 <!----footer-->
