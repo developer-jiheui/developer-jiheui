@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-Hello world ✋ I love building something that changes lives in better way 🏗️<br>
+Hello world ✋ I love building stuff that helps to change lives in a better way 🏗️<br>
 <!---I do DIY projects, board games, and play with Coco🐾 in my free time-->
 </p>
 
